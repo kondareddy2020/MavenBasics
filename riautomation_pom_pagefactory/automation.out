@@ -1,0 +1,614 @@
+2017-11-29 00:45:22 INFO  P_TC_001_VerifyLoginWithInvalidCredentials:27 - ***************Starting of Test*************
+2017-11-29 00:45:23 INFO  PHomePage:39 - Clicking on SignIn
+2017-11-29 00:45:30 INFO  PHomePage:41 - Entering Email Address::test@gmail.com
+2017-11-29 00:45:32 INFO  PHomePage:43 - Entering Password::password123
+2017-11-29 00:45:33 INFO  PHomePage:45 - Clicking on submitButton
+2017-11-29 00:45:36 INFO  PHomePage:49 - authenticationFailed.getText()
+2017-11-29 00:45:36 INFO  P_TC_001_VerifyLoginWithInvalidCredentials:30 - Invalid Login Text is::Authentication failed.
+2017-11-29 00:45:36 INFO  PHomePage:49 - authenticationFailed.getText()
+2017-11-29 00:45:37 INFO  P_TC_001_VerifyLoginWithInvalidCredentials:32 - ***************End of Test*************
+2017-11-29 00:49:55 INFO  P_TC_001_VerifyLoginWithInvalidCredentials:27 - ***************Starting of Test*************
+2017-11-29 00:49:55 INFO  PHomePage:39 - Clicking on SignIn
+2017-11-29 00:50:01 INFO  PHomePage:41 - Entering Email Address::test@gmail.com
+2017-11-29 00:50:02 INFO  PHomePage:43 - Entering Password::password123
+2017-11-29 00:50:03 INFO  PHomePage:45 - Clicking on submitButton
+2017-11-29 00:50:07 INFO  PHomePage:49 - authenticationFailed.getText()
+2017-11-29 00:50:07 INFO  P_TC_001_VerifyLoginWithInvalidCredentials:30 - Invalid Login Text is::Authentication failed.
+2017-11-29 00:50:07 INFO  PHomePage:49 - authenticationFailed.getText()
+2017-11-29 00:50:07 INFO  P_TC_001_VerifyLoginWithInvalidCredentials:32 - ***************End of Test*************
+2017-11-29 01:35:35 INFO  P_TC_001_VerifyLoginWithInvalidCredentials:27 - ***************Starting of Test*************
+2017-11-29 01:35:35 INFO  PHomePage:37 - Clicking on SignIn
+2017-11-29 01:35:40 INFO  PHomePage:39 - Entering Email Address::test@gmail.com
+2017-11-29 01:35:42 INFO  PHomePage:41 - Entering Password::password123
+2017-11-29 01:35:43 INFO  PHomePage:43 - Clicking on submitButton
+2017-11-29 01:35:47 INFO  PHomePage:47 - authenticationFailed.getText()
+2017-11-29 01:35:47 INFO  P_TC_001_VerifyLoginWithInvalidCredentials:31 - Invalid Login Text is::Authentication failed.
+2017-11-29 01:35:47 INFO  PHomePage:47 - authenticationFailed.getText()
+2017-11-29 01:35:47 INFO  P_TC_001_VerifyLoginWithInvalidCredentials:37 - ***************End of Test*************
+2017-11-29 01:43:45 INFO  P_TC_001_VerifyLoginWithInvalidCredentials:27 - ***************Starting of Test*************
+2017-11-29 01:43:45 INFO  PHomePage:37 - Clicking on SignIn
+2017-11-29 01:43:55 INFO  PHomePage:39 - Entering Email Address::test@gmail.com
+2017-11-29 01:43:57 INFO  PHomePage:41 - Entering Password::password123
+2017-11-29 01:43:58 INFO  PHomePage:43 - Clicking on submitButton
+2017-11-29 01:44:03 INFO  PHomePage:47 - authenticationFailed.getText()
+2017-11-29 01:44:03 INFO  P_TC_001_VerifyLoginWithInvalidCredentials:31 - Invalid Login Text is::Authentication failed.
+2017-11-29 01:44:03 INFO  PHomePage:47 - authenticationFailed.getText()
+2017-11-29 01:44:03 INFO  P_TC_001_VerifyLoginWithInvalidCredentials:37 - ***************End of Test*************
+2017-11-29 15:44:38 INFO  P_TC_001_VerifyLoginWithInvalidCredentials:30 - ***************Starting of Test*************
+2017-11-29 15:44:38 INFO  PHomePage:37 - Clicking on SignIn
+2017-11-29 15:44:42 INFO  PHomePage:39 - Entering Email Address::test@gmail.com
+2017-11-29 15:44:43 INFO  PHomePage:41 - Entering Password::password123
+2017-11-29 15:44:43 INFO  PHomePage:43 - Clicking on submitButton
+2017-11-29 15:44:45 INFO  PHomePage:47 - authenticationFailed.getText()
+2017-11-29 15:44:45 INFO  P_TC_001_VerifyLoginWithInvalidCredentials:34 - Invalid Login Text is::Authentication failed.
+2017-11-29 15:44:45 INFO  PHomePage:47 - authenticationFailed.getText()
+2017-11-29 15:44:46 INFO  P_TC_001_VerifyLoginWithInvalidCredentials:39 - ***************End of Test*************
+2017-11-29 15:58:00 INFO  RISignInPage:23 - Entering RI User Name
+2017-11-29 16:24:08 INFO  RISignInPage:23 - Entering RI User Name
+2017-11-29 16:24:08 INFO  RISignInPage:25 - Entering RI PaRIPasswrodssword
+2017-11-29 16:24:09 INFO  RISignInPage:27 - Clicking on SignIn Button of RI Login Page
+2017-11-29 16:28:16 INFO  CreateEmailCamapign:25 - :Starting of Test:
+2017-11-29 16:28:16 INFO  RISignInPage:23 - Entering RI User Name
+2017-11-29 16:28:16 INFO  RISignInPage:25 - Entering RI PaRIPasswrodssword
+2017-11-29 16:28:16 INFO  RISignInPage:27 - Clicking on SignIn Button of RI Login Page
+2017-11-29 16:28:27 INFO  CreateEmailCamapign:28 - :Ending of Test:
+2017-11-29 16:28:27 INFO  CreateEmailCamapign:33 - :Close the Browser:
+2017-11-29 16:37:39 INFO  RITestBase:33 - java.io.FileInputStream@396f6598
+2017-11-29 16:37:39 INFO  RITestBase:42 - Selecting the browser:chrome
+2017-11-29 16:37:39 INFO  RITestBase:60 - Launching:trueBrowser
+2017-11-29 16:37:46 INFO  RITestBase:44 - Navigating to the Application :https://interact.qa1.responsys.net/interact/login/LoginPage
+2017-11-29 16:37:46 INFO  RITestBase:75 - Navigating to the Application:https://interact.qa1.responsys.net/interact/login/LoginPage
+2017-11-29 16:37:58 INFO  CreateEmailCamapign:25 - :Starting of Test:
+2017-11-29 16:37:58 INFO  RISignInPage:23 - Entering RI User Name
+2017-11-29 16:37:58 INFO  RISignInPage:25 - Entering RI PaRIPasswrodssword
+2017-11-29 16:37:59 INFO  RISignInPage:27 - Clicking on SignIn Button of RI Login Page
+2017-11-29 16:38:03 INFO  CreateEmailCamapign:28 - :Ending of Test:
+2017-11-29 16:38:04 INFO  CreateEmailCamapign:33 - :Close the Browser:
+2017-11-29 16:48:55 INFO  RITestBase:33 - java.io.FileInputStream@396f6598
+2017-11-29 16:48:55 INFO  RITestBase:42 - Selecting the browser:chrome
+2017-11-29 16:48:55 INFO  RITestBase:60 - Launching:trueBrowser
+2017-11-29 16:49:01 INFO  RITestBase:44 - Navigating to the Application :https://interact.qa1.responsys.net/interact/login/LoginPage
+2017-11-29 16:49:01 INFO  RITestBase:75 - Navigating to the Application:https://interact.qa1.responsys.net/interact/login/LoginPage
+2017-11-29 16:49:15 INFO  RI_TC_01_CreateEmailCamapign:27 - :Starting of Test:
+2017-11-29 16:49:15 INFO  RISignInPage:36 - Entering RI User Name:gokulmvt :At [[ChromeDriver: chrome on XP (4d9c40aa1e8e3a3262883c6ae7b9c2c9)] -> xpath: //input[@id='txtUserName']]
+2017-11-29 16:49:15 INFO  RISignInPage:38 - Entering RI RIPasswrodssword:Welcome1234! :At [[ChromeDriver: chrome on XP (4d9c40aa1e8e3a3262883c6ae7b9c2c9)] -> xpath: //input[@id='txtPassword']]
+2017-11-29 16:49:16 INFO  RISignInPage:40 - Clicking on SignIn Button of RI Login Page At:[[ChromeDriver: chrome on XP (4d9c40aa1e8e3a3262883c6ae7b9c2c9)] -> xpath: //form[@id='loginForm']//button[@id='signIn']]
+2017-11-29 16:49:23 INFO  RI_TC_01_CreateEmailCamapign:30 - :Ending of Test:
+2017-11-29 16:49:24 INFO  RI_TC_01_CreateEmailCamapign:35 - :Close the Browser:
+2017-11-29 16:56:50 INFO  RITestBase:33 - java.io.FileInputStream@27a5f880
+2017-11-29 16:56:50 INFO  RITestBase:42 - Selecting the browser:chrome
+2017-11-29 16:56:50 INFO  RITestBase:60 - Launching:trueBrowser
+2017-11-29 16:56:58 INFO  RITestBase:44 - Navigating to the Application :https://interact.qa1.responsys.net/interact/login/LoginPage
+2017-11-29 16:56:58 INFO  RITestBase:75 - Navigating to the Application:https://interact.qa1.responsys.net/interact/login/LoginPage
+2017-11-29 16:57:06 INFO  RI_TC_01_CreateEmailCamapign:27 - :Starting of Test:
+2017-11-29 16:57:06 INFO  RISignInPage:36 - Entering RI User Name:gokulmvt :At [[ChromeDriver: chrome on XP (d8baf3d0e6d507f3efff365c6057d44e)] -> xpath: //input[@id='txtUserName']]
+2017-11-29 16:57:07 INFO  RISignInPage:38 - Entering RI RIPasswrodssword:Welcome1234! :At [[ChromeDriver: chrome on XP (d8baf3d0e6d507f3efff365c6057d44e)] -> xpath: //input[@id='txtPassword']]
+2017-11-29 16:57:07 INFO  RISignInPage:40 - Clicking on SignIn Button of RI Login Page At:[[ChromeDriver: chrome on XP (d8baf3d0e6d507f3efff365c6057d44e)] -> xpath: //form[@id='loginForm']//button[@id='signIn']]
+2017-11-29 16:57:14 INFO  RI_TC_01_CreateEmailCamapign:30 - :Ending of Test:
+2017-11-29 16:57:14 INFO  RI_TC_01_CreateEmailCamapign:27 - :Starting of Test:
+2017-11-29 16:57:14 INFO  RISignInPage:36 - Entering RI User Name:gokulmvt :At Proxy element for: DefaultElementLocator 'By.xpath: //input[@id='txtUserName']'
+2017-11-29 16:57:15 INFO  RI_TC_01_CreateEmailCamapign:39 - :Close the Browser:
+2017-11-29 16:58:29 INFO  RITestBase:33 - java.io.FileInputStream@27a5f880
+2017-11-29 16:58:29 INFO  RITestBase:42 - Selecting the browser:chrome
+2017-11-29 16:58:29 INFO  RITestBase:60 - Launching:trueBrowser
+2017-11-29 16:58:39 INFO  RITestBase:44 - Navigating to the Application :https://interact.qa1.responsys.net/interact/login/LoginPage
+2017-11-29 16:58:39 INFO  RITestBase:75 - Navigating to the Application:https://interact.qa1.responsys.net/interact/login/LoginPage
+2017-11-29 16:58:46 INFO  RI_TC_01_CreateEmailCamapign:27 - :Starting of Test:
+2017-11-29 16:58:46 INFO  RISignInPage:36 - Entering RI User Name:gokulmvt :At [[ChromeDriver: chrome on XP (cfded5f0b180c980e2cc2ffde047bcb4)] -> xpath: //input[@id='txtUserName']]
+2017-11-29 16:58:47 INFO  RISignInPage:38 - Entering RI RIPasswrodssword:Welcome1234! :At [[ChromeDriver: chrome on XP (cfded5f0b180c980e2cc2ffde047bcb4)] -> xpath: //input[@id='txtPassword']]
+2017-11-29 16:58:47 INFO  RISignInPage:40 - Clicking on SignIn Button of RI Login Page At:[[ChromeDriver: chrome on XP (cfded5f0b180c980e2cc2ffde047bcb4)] -> xpath: //form[@id='loginForm']//button[@id='signIn']]
+2017-11-29 16:58:52 INFO  RI_TC_01_CreateEmailCamapign:30 - :Ending of Test:
+2017-11-29 16:58:55 INFO  RI_TC_01_CreateEmailCamapign:39 - :Close the Browser:
+2017-11-29 16:58:55 INFO  RI_TC_01_CreateEmailCamapign:27 - :Starting of Test:
+2017-11-29 16:59:41 INFO  RITestBase:33 - java.io.FileInputStream@394e1a0f
+2017-11-29 16:59:41 INFO  RITestBase:42 - Selecting the browser:chrome
+2017-11-29 16:59:41 INFO  RITestBase:60 - Launching:trueBrowser
+2017-11-29 16:59:52 INFO  RITestBase:44 - Navigating to the Application :https://interact.qa1.responsys.net/interact/login/LoginPage
+2017-11-29 16:59:52 INFO  RITestBase:75 - Navigating to the Application:https://interact.qa1.responsys.net/interact/login/LoginPage
+2017-11-29 17:00:05 INFO  RI_TC_01_CreateEmailCamapign:27 - :Starting of Test:
+2017-11-29 17:00:05 INFO  RISignInPage:36 - Entering RI User Name:gokulmvt :At [[ChromeDriver: chrome on XP (8979484d9f0e59a08472c342bb0e28c7)] -> xpath: //input[@id='txtUserName']]
+2017-11-29 17:00:05 INFO  RISignInPage:38 - Entering RI RIPasswrodssword:Welcome1234! :At [[ChromeDriver: chrome on XP (8979484d9f0e59a08472c342bb0e28c7)] -> xpath: //input[@id='txtPassword']]
+2017-11-29 17:00:06 INFO  RISignInPage:40 - Clicking on SignIn Button of RI Login Page At:[[ChromeDriver: chrome on XP (8979484d9f0e59a08472c342bb0e28c7)] -> xpath: //form[@id='loginForm']//button[@id='signIn']]
+2017-11-29 17:00:16 INFO  RI_TC_01_CreateEmailCamapign:30 - :Ending of Test:
+2017-11-29 17:00:16 INFO  RI_TC_01_CreateEmailCamapign:27 - :Starting of Test:
+2017-11-29 17:00:17 INFO  RISignInPage:36 - Entering RI User Name:gokulmvt :At Proxy element for: DefaultElementLocator 'By.xpath: //input[@id='txtUserName']'
+2017-11-29 17:01:02 INFO  RITestBase:33 - java.io.FileInputStream@394e1a0f
+2017-11-29 17:01:02 INFO  RITestBase:42 - Selecting the browser:chrome
+2017-11-29 17:01:02 INFO  RITestBase:60 - Launching:trueBrowser
+2017-11-29 17:01:08 INFO  RITestBase:44 - Navigating to the Application :https://interact.qa1.responsys.net/interact/login/LoginPage
+2017-11-29 17:01:08 INFO  RITestBase:75 - Navigating to the Application:https://interact.qa1.responsys.net/interact/login/LoginPage
+2017-11-29 17:01:16 INFO  RI_TC_01_CreateEmailCamapign:27 - :Starting of Test:
+2017-11-29 17:01:16 INFO  RISignInPage:36 - Entering RI User Name:gokulmvt :At [[ChromeDriver: chrome on XP (b305301a9a9b3bd268cf74fd4dac7375)] -> xpath: //input[@id='txtUserName']]
+2017-11-29 17:01:16 INFO  RISignInPage:38 - Entering RI RIPasswrodssword:Welcome1234! :At [[ChromeDriver: chrome on XP (b305301a9a9b3bd268cf74fd4dac7375)] -> xpath: //input[@id='txtPassword']]
+2017-11-29 17:01:16 INFO  RISignInPage:40 - Clicking on SignIn Button of RI Login Page At:[[ChromeDriver: chrome on XP (b305301a9a9b3bd268cf74fd4dac7375)] -> xpath: //form[@id='loginForm']//button[@id='signIn']]
+2017-11-29 17:01:23 INFO  RI_TC_01_CreateEmailCamapign:30 - :Ending of Test:
+2017-11-29 17:01:24 INFO  RI_TC_01_CreateEmailCamapign:27 - :Starting of Test:
+2017-11-29 18:12:18 INFO  RITestBase:33 - java.io.FileInputStream@394e1a0f
+2017-11-29 18:12:18 INFO  RITestBase:42 - Selecting the browser:chrome
+2017-11-29 18:12:18 INFO  RITestBase:60 - Launching:trueBrowser
+2017-11-29 18:12:27 INFO  RITestBase:44 - Navigating to the Application :https://interact.qa1.responsys.net/interact/login/LoginPage
+2017-11-29 18:12:27 INFO  RITestBase:75 - Navigating to the Application:https://interact.qa1.responsys.net/interact/login/LoginPage
+2017-11-29 18:12:39 INFO  RITestBase:85 - Reading Excel Data from:D:\AutomationProjects\riautomation_pom_pagefactory\src\test\java\com\oracle\responsys\data\RILogin
+2017-11-29 18:12:39 INFO  RITestBase:87 - Storing the Data
+2017-11-29 18:12:39 INFO  RITestBase:89 - Returning the Data
+2017-11-29 19:32:23 INFO  RITestBase:33 - java.io.FileInputStream@5a1c0542
+2017-11-29 19:32:23 INFO  RITestBase:42 - Selecting the browser:chrome
+2017-11-29 19:32:23 INFO  RITestBase:60 - Launching:trueBrowser
+2017-11-29 19:32:27 INFO  RITestBase:44 - Navigating to the Application :https://interact.qa1.responsys.net/interact/login/LoginPage
+2017-11-29 19:32:27 INFO  RITestBase:75 - Navigating to the Application:https://interact.qa1.responsys.net/interact/login/LoginPage
+2017-11-29 19:32:39 INFO  RI_TC_01_CreateEmailCamapign:29 - :Starting of Test:
+2017-11-29 19:32:39 INFO  RISignInPage:36 - Entering RI User Name:gokulmvt :At [[ChromeDriver: chrome on XP (c826a31a65f4069d258a062eb397a295)] -> xpath: //input[@id='txtUserName']]
+2017-11-29 19:32:40 INFO  RISignInPage:38 - Entering RI RIPasswrodssword:Welcome1234! :At [[ChromeDriver: chrome on XP (c826a31a65f4069d258a062eb397a295)] -> xpath: //input[@id='txtPassword']]
+2017-11-29 19:32:40 INFO  RISignInPage:40 - Clicking on SignIn Button of RI Login Page At:[[ChromeDriver: chrome on XP (c826a31a65f4069d258a062eb397a295)] -> xpath: //form[@id='loginForm']//button[@id='signIn']]
+2017-11-29 19:33:31 INFO  RITestBase:33 - java.io.FileInputStream@5a1c0542
+2017-11-29 19:33:31 INFO  RITestBase:42 - Selecting the browser:chrome
+2017-11-29 19:33:31 INFO  RITestBase:60 - Launching:trueBrowser
+2017-11-29 19:33:41 INFO  RITestBase:33 - java.io.FileInputStream@6f4a47c7
+2017-11-29 19:33:41 INFO  RITestBase:42 - Selecting the browser:chrome
+2017-11-29 19:33:41 INFO  RITestBase:60 - Launching:trueBrowser
+2017-11-29 19:33:46 INFO  RITestBase:44 - Navigating to the Application :https://interact.qa1.responsys.net/interact/login/LoginPage
+2017-11-29 19:33:46 INFO  RITestBase:75 - Navigating to the Application:https://interact.qa1.responsys.net/interact/login/LoginPage
+2017-11-29 19:33:53 INFO  RI_TC_01_CreateEmailCamapign:29 - :Starting of Test:
+2017-11-29 19:33:53 INFO  RISignInPage:36 - Entering RI User Name:gokulmvt :At [[ChromeDriver: chrome on XP (463dbb8fb4849eaa3278ae0cb9e071a7)] -> xpath: //input[@id='txtUserName']]
+2017-11-29 19:33:54 INFO  RISignInPage:38 - Entering RI RIPasswrodssword:Welcome1234! :At [[ChromeDriver: chrome on XP (463dbb8fb4849eaa3278ae0cb9e071a7)] -> xpath: //input[@id='txtPassword']]
+2017-11-29 19:33:54 INFO  RISignInPage:40 - Clicking on SignIn Button of RI Login Page At:[[ChromeDriver: chrome on XP (463dbb8fb4849eaa3278ae0cb9e071a7)] -> xpath: //form[@id='loginForm']//button[@id='signIn']]
+2017-11-29 19:36:09 INFO  RITestBase:33 - java.io.FileInputStream@6f4a47c7
+2017-11-29 19:36:09 INFO  RITestBase:42 - Selecting the browser:chrome
+2017-11-29 19:36:09 INFO  RITestBase:60 - Launching:trueBrowser
+2017-11-29 19:36:16 INFO  RITestBase:44 - Navigating to the Application :https://interact.qa1.responsys.net/interact/login/LoginPage
+2017-11-29 19:36:16 INFO  RITestBase:75 - Navigating to the Application:https://interact.qa1.responsys.net/interact/login/LoginPage
+2017-11-29 19:36:23 INFO  RI_TC_01_CreateEmailCamapign:29 - :Starting of Test:
+2017-11-29 19:36:23 INFO  RISignInPage:38 - Entering RI User Name:gokulmvt :At [[ChromeDriver: chrome on XP (1827e9c28c87a34a1fafcb57543f2f4b)] -> xpath: //input[@id='txtUserName']]
+2017-11-29 19:36:23 INFO  RISignInPage:40 - Entering RI RIPasswrodssword:Welcome1234! :At [[ChromeDriver: chrome on XP (1827e9c28c87a34a1fafcb57543f2f4b)] -> xpath: //input[@id='txtPassword']]
+2017-11-29 19:36:23 INFO  RISignInPage:42 - Clicking on SignIn Button of RI Login Page At:[[ChromeDriver: chrome on XP (1827e9c28c87a34a1fafcb57543f2f4b)] -> xpath: //form[@id='loginForm']//button[@id='signIn']]
+2017-11-29 19:36:44 INFO  RITestBase:33 - java.io.FileInputStream@6f4a47c7
+2017-11-29 19:36:44 INFO  RITestBase:42 - Selecting the browser:chrome
+2017-11-29 19:36:44 INFO  RITestBase:60 - Launching:trueBrowser
+2017-11-29 19:36:48 INFO  RITestBase:44 - Navigating to the Application :https://interact.qa1.responsys.net/interact/login/LoginPage
+2017-11-29 19:36:48 INFO  RITestBase:75 - Navigating to the Application:https://interact.qa1.responsys.net/interact/login/LoginPage
+2017-11-29 19:36:53 INFO  RI_TC_01_CreateEmailCamapign:29 - :Starting of Test:
+2017-11-29 19:36:53 INFO  RISignInPage:38 - Entering RI User Name:gokulmvt :At [[ChromeDriver: chrome on XP (573d9741ce8825865b85ac396fbde1e5)] -> xpath: //input[@id='txtUserName']]
+2017-11-29 19:36:53 INFO  RISignInPage:40 - Entering RI RIPasswrodssword:Welcome1234! :At [[ChromeDriver: chrome on XP (573d9741ce8825865b85ac396fbde1e5)] -> xpath: //input[@id='txtPassword']]
+2017-11-29 19:36:54 INFO  RISignInPage:42 - Clicking on SignIn Button of RI Login Page At:[[ChromeDriver: chrome on XP (573d9741ce8825865b85ac396fbde1e5)] -> xpath: //form[@id='loginForm']//button[@id='signIn']]
+2017-11-29 19:37:13 INFO  RITestBase:33 - java.io.FileInputStream@5a1c0542
+2017-11-29 19:37:13 INFO  RITestBase:42 - Selecting the browser:chrome
+2017-11-29 19:37:13 INFO  RITestBase:60 - Launching:trueBrowser
+2017-11-29 19:37:17 INFO  RITestBase:44 - Navigating to the Application :https://interact.qa1.responsys.net/interact/login/LoginPage
+2017-11-29 19:37:17 INFO  RITestBase:75 - Navigating to the Application:https://interact.qa1.responsys.net/interact/login/LoginPage
+2017-11-29 19:37:22 INFO  RI_TC_01_CreateEmailCamapign:29 - :Starting of Test:
+2017-11-29 19:37:22 INFO  RISignInPage:38 - Entering RI User Name:gokulmvt :At [[ChromeDriver: chrome on XP (8fb99f353b1a608eaad8dd94a1952e36)] -> xpath: //input[@id='txtUserName']]
+2017-11-29 19:37:22 INFO  RISignInPage:40 - Entering RI RIPasswrodssword:Welcome1234! :At [[ChromeDriver: chrome on XP (8fb99f353b1a608eaad8dd94a1952e36)] -> xpath: //input[@id='txtPassword']]
+2017-11-29 19:37:22 INFO  RISignInPage:42 - Clicking on SignIn Button of RI Login Page At:[[ChromeDriver: chrome on XP (8fb99f353b1a608eaad8dd94a1952e36)] -> xpath: //form[@id='loginForm']//button[@id='signIn']]
+2017-11-29 19:38:10 INFO  RITestBase:33 - java.io.FileInputStream@5a1c0542
+2017-11-29 19:38:10 INFO  RITestBase:42 - Selecting the browser:chrome
+2017-11-29 19:38:10 INFO  RITestBase:60 - Launching:trueBrowser
+2017-11-29 19:38:14 INFO  RITestBase:44 - Navigating to the Application :https://interact.qa1.responsys.net/interact/login/LoginPage
+2017-11-29 19:38:14 INFO  RITestBase:75 - Navigating to the Application:https://interact.qa1.responsys.net/interact/login/LoginPage
+2017-11-29 19:38:19 INFO  RI_TC_01_CreateEmailCamapign:29 - :Starting of Test:
+2017-11-29 19:38:19 INFO  RISignInPage:38 - Entering RI User Name:gokulmvt :At [[ChromeDriver: chrome on XP (da256fca9f575e8c8f93a8a4bc3e2cd0)] -> xpath: //input[@id='txtUserName']]
+2017-11-29 19:38:19 INFO  RISignInPage:40 - Entering RI RIPasswrodssword:Welcome1234! :At [[ChromeDriver: chrome on XP (da256fca9f575e8c8f93a8a4bc3e2cd0)] -> xpath: //input[@id='txtPassword']]
+2017-11-29 19:38:20 INFO  RISignInPage:42 - Clicking on SignIn Button of RI Login Page At:[[ChromeDriver: chrome on XP (da256fca9f575e8c8f93a8a4bc3e2cd0)] -> xpath: //form[@id='loginForm']//button[@id='signIn']]
+2017-11-29 19:39:31 INFO  RITestBase:33 - java.io.FileInputStream@5a1c0542
+2017-11-29 19:39:31 INFO  RITestBase:42 - Selecting the browser:chrome
+2017-11-29 19:39:31 INFO  RITestBase:60 - Launching:trueBrowser
+2017-11-29 19:39:35 INFO  RITestBase:44 - Navigating to the Application :https://interact.qa1.responsys.net/interact/login/LoginPage
+2017-11-29 19:39:35 INFO  RITestBase:75 - Navigating to the Application:https://interact.qa1.responsys.net/interact/login/LoginPage
+2017-11-29 19:39:46 INFO  RI_TC_01_CreateEmailCamapign:29 - :Starting of Test:
+2017-11-29 19:39:46 INFO  RISignInPage:38 - Entering RI User Name:gokulmvt :At [[ChromeDriver: chrome on XP (196f1012a5806ece1035910e17074d30)] -> xpath: //input[@id='txtUserName']]
+2017-11-29 19:39:46 INFO  RISignInPage:40 - Entering RI RIPasswrodssword:Welcome1234! :At [[ChromeDriver: chrome on XP (196f1012a5806ece1035910e17074d30)] -> xpath: //input[@id='txtPassword']]
+2017-11-29 19:39:46 INFO  RISignInPage:42 - Clicking on SignIn Button of RI Login Page At:[[ChromeDriver: chrome on XP (196f1012a5806ece1035910e17074d30)] -> xpath: //form[@id='loginForm']//button[@id='signIn']]
+2017-11-29 19:40:33 INFO  RITestBase:33 - java.io.FileInputStream@5a1c0542
+2017-11-29 19:40:33 INFO  RITestBase:42 - Selecting the browser:chrome
+2017-11-29 19:40:33 INFO  RITestBase:60 - Launching:trueBrowser
+2017-11-29 19:40:37 INFO  RITestBase:44 - Navigating to the Application :https://interact.qa1.responsys.net/interact/login/LoginPage
+2017-11-29 19:40:37 INFO  RITestBase:75 - Navigating to the Application:https://interact.qa1.responsys.net/interact/login/LoginPage
+2017-11-29 19:40:42 INFO  RI_TC_01_CreateEmailCamapign:30 - :Starting of Test:
+2017-11-29 19:40:42 INFO  RISignInPage:38 - Entering RI User Name:gokulmvt :At [[ChromeDriver: chrome on XP (6ef6e30a8637aeec315cdda65cc65d52)] -> xpath: //input[@id='txtUserName']]
+2017-11-29 19:40:42 INFO  RISignInPage:40 - Entering RI RIPasswrodssword:Welcome1234! :At [[ChromeDriver: chrome on XP (6ef6e30a8637aeec315cdda65cc65d52)] -> xpath: //input[@id='txtPassword']]
+2017-11-29 19:40:42 INFO  RISignInPage:42 - Clicking on SignIn Button of RI Login Page At:[[ChromeDriver: chrome on XP (6ef6e30a8637aeec315cdda65cc65d52)] -> xpath: //form[@id='loginForm']//button[@id='signIn']]
+2017-11-29 19:41:12 INFO  RITestBase:33 - java.io.FileInputStream@5a1c0542
+2017-11-29 19:41:12 INFO  RITestBase:42 - Selecting the browser:chrome
+2017-11-29 19:41:12 INFO  RITestBase:60 - Launching:trueBrowser
+2017-11-29 19:41:16 INFO  RITestBase:44 - Navigating to the Application :https://interact.qa1.responsys.net/interact/login/LoginPage
+2017-11-29 19:41:16 INFO  RITestBase:75 - Navigating to the Application:https://interact.qa1.responsys.net/interact/login/LoginPage
+2017-11-29 19:41:20 INFO  RI_TC_01_CreateEmailCamapign:30 - :Starting of Test:
+2017-11-29 19:41:20 INFO  RISignInPage:38 - Entering RI User Name:gokulmvt :At [[ChromeDriver: chrome on XP (bd6df8ac753b2f203db1c69d934342ea)] -> xpath: //input[@id='txtUserName']]
+2017-11-29 19:41:20 INFO  RISignInPage:40 - Entering RI RIPasswrodssword:Welcome1234! :At [[ChromeDriver: chrome on XP (bd6df8ac753b2f203db1c69d934342ea)] -> xpath: //input[@id='txtPassword']]
+2017-11-29 19:41:21 INFO  RISignInPage:42 - Clicking on SignIn Button of RI Login Page At:[[ChromeDriver: chrome on XP (bd6df8ac753b2f203db1c69d934342ea)] -> xpath: //form[@id='loginForm']//button[@id='signIn']]
+2017-11-29 19:41:29 INFO  RI_TC_01_CreateEmailCamapign:36 - :Ending of Test:
+2017-11-29 22:01:48 INFO  RITestBase:33 - java.io.FileInputStream@5a1c0542
+2017-11-29 22:01:48 INFO  RITestBase:42 - Selecting the browser:chrome
+2017-11-29 22:01:48 INFO  RITestBase:60 - Launching:trueBrowser
+2017-11-29 22:01:56 INFO  RITestBase:44 - Navigating to the Application :https://interact.qa1.responsys.net/interact/login/LoginPage
+2017-11-29 22:01:56 INFO  RITestBase:75 - Navigating to the Application:https://interact.qa1.responsys.net/interact/login/LoginPage
+2017-11-29 22:02:10 INFO  RI_TC_01_CreateEmailCamapign:30 - :Starting of Test:
+2017-11-29 22:02:10 INFO  RISignInPage:38 - Entering RI User Name:gokulmvt :At [[ChromeDriver: chrome on XP (77daafa1ef5b8b58b991ec4be8efe66b)] -> xpath: //input[@id='txtUserName']]
+2017-11-29 22:02:10 INFO  RISignInPage:40 - Entering RI RIPasswrodssword:Welcome1234! :At [[ChromeDriver: chrome on XP (77daafa1ef5b8b58b991ec4be8efe66b)] -> xpath: //input[@id='txtPassword']]
+2017-11-29 22:02:11 INFO  RISignInPage:42 - Clicking on SignIn Button of RI Login Page At:[[ChromeDriver: chrome on XP (77daafa1ef5b8b58b991ec4be8efe66b)] -> xpath: //form[@id='loginForm']//button[@id='signIn']]
+2017-11-29 22:02:22 INFO  RI_TC_01_CreateEmailCamapign:36 - :Ending of Test:
+2017-11-29 22:06:07 INFO  RITestBase:33 - java.io.FileInputStream@5a1c0542
+2017-11-29 22:06:07 INFO  RITestBase:42 - Selecting the browser:chrome
+2017-11-29 22:06:07 INFO  RITestBase:60 - Launching:trueBrowser
+2017-11-29 22:06:15 INFO  RITestBase:44 - Navigating to the Application :https://interact.qa1.responsys.net/interact/login/LoginPage
+2017-11-29 22:06:15 INFO  RITestBase:75 - Navigating to the Application:https://interact.qa1.responsys.net/interact/login/LoginPage
+2017-11-29 22:06:31 INFO  RI_TC_01_CreateEmailCamapign:30 - :Starting of Test:
+2017-11-29 22:06:32 INFO  RISignInPage:38 - Entering RI User Name:gokulmvt :At [[ChromeDriver: chrome on XP (d156627ec70f71a9b26c95c729acf75f)] -> xpath: //input[@id='txtUserName']]
+2017-11-29 22:06:32 INFO  RISignInPage:40 - Entering RI RIPasswrodssword:Welcome1234! :At [[ChromeDriver: chrome on XP (d156627ec70f71a9b26c95c729acf75f)] -> xpath: //input[@id='txtPassword']]
+2017-11-29 22:06:33 INFO  RISignInPage:42 - Clicking on SignIn Button of RI Login Page At:[[ChromeDriver: chrome on XP (d156627ec70f71a9b26c95c729acf75f)] -> xpath: //form[@id='loginForm']//button[@id='signIn']]
+2017-11-29 22:12:45 INFO  RITestBase:33 - java.io.FileInputStream@6f4a47c7
+2017-11-29 22:12:45 INFO  RITestBase:42 - Selecting the browser:chrome
+2017-11-29 22:12:45 INFO  RITestBase:60 - Launching:trueBrowser
+2017-11-29 22:12:53 INFO  RITestBase:44 - Navigating to the Application :https://interact.qa1.responsys.net/interact/login/LoginPage
+2017-11-29 22:12:53 INFO  RITestBase:75 - Navigating to the Application:https://interact.qa1.responsys.net/interact/login/LoginPage
+2017-11-29 22:15:09 INFO  RI_TC_01_CreateEmailCamapign:30 - :Starting of Test:
+2017-11-29 22:15:16 INFO  RITestBase:33 - java.io.FileInputStream@6f4a47c7
+2017-11-29 22:15:16 INFO  RITestBase:42 - Selecting the browser:chrome
+2017-11-29 22:15:16 INFO  RITestBase:60 - Launching:trueBrowser
+2017-11-29 22:15:25 INFO  RITestBase:44 - Navigating to the Application :https://interact.qa1.responsys.net/interact/login/LoginPage
+2017-11-29 22:15:25 INFO  RITestBase:75 - Navigating to the Application:https://interact.qa1.responsys.net/interact/login/LoginPage
+2017-11-29 22:16:35 INFO  RI_TC_01_CreateEmailCamapign:30 - :Starting of Test:
+2017-11-29 22:16:35 INFO  RISignInPage:38 - Entering RI User Name:gokulmvt :At [[ChromeDriver: chrome on XP (10ad202bef1c88e06cddcfed9a703f6d)] -> xpath: //input[@id='txtUserName']]
+2017-11-29 22:16:36 INFO  RISignInPage:40 - Entering RI RIPasswrodssword:Welcome1234! :At [[ChromeDriver: chrome on XP (10ad202bef1c88e06cddcfed9a703f6d)] -> xpath: //input[@id='txtPassword']]
+2017-11-29 22:16:36 INFO  RISignInPage:42 - Clicking on SignIn Button of RI Login Page At:[[ChromeDriver: chrome on XP (10ad202bef1c88e06cddcfed9a703f6d)] -> xpath: //form[@id='loginForm']//button[@id='signIn']]
+2018-05-17 12:50:06 INFO  P_TC_001_VerifyLoginWithInvalidCredentials:30 - ***************Starting of Test*************
+2018-05-17 12:50:06 INFO  PHomePage:37 - Clicking on SignIn
+2018-05-17 12:50:09 INFO  PHomePage:39 - Entering Email Address::test@gmail.com
+2018-05-17 12:50:10 INFO  P_TC_001_VerifyLoginWithInvalidCredentials:39 - ***************End of Test*************
+2018-05-18 12:05:02 INFO  P_TC_001_VerifyLoginWithInvalidCredentials:30 - ***************Starting of Test*************
+2018-05-18 12:05:02 INFO  PHomePage:37 - Clicking on SignIn
+2018-05-18 12:05:02 INFO  P_TC_001_VerifyLoginWithInvalidCredentials:39 - ***************End of Test*************
+2018-05-23 22:41:11 INFO  RITestBase:33 - java.io.FileInputStream@394e1a0f
+2018-05-23 22:41:11 INFO  RITestBase:42 - Selecting the browser:chrome
+2018-05-23 22:41:11 INFO  RITestBase:60 - Launching:trueBrowser
+2018-05-23 22:41:15 INFO  RITestBase:44 - Navigating to the Application :https://interact.qa1.responsys.net/interact/login/LoginPage
+2018-05-23 22:41:15 INFO  RITestBase:75 - Navigating to the Application:https://interact.qa1.responsys.net/interact/login/LoginPage
+2018-05-23 22:41:20 INFO  RI_TC_01_CreateEmailCamapign:30 - :Starting of Test:
+2018-05-23 22:41:21 INFO  RISignInPage:38 - Entering RI User Name:gokulmvt :At Proxy element for: DefaultElementLocator 'By.xpath: //input[@id='txtUserName']'
+2018-06-04 15:44:44 INFO  RITestBase:33 - java.io.FileInputStream@394e1a0f
+2018-06-04 15:44:44 INFO  RITestBase:42 - Selecting the browser:chrome
+2018-06-04 15:44:44 INFO  RITestBase:60 - Launching:trueBrowser
+2018-06-04 15:44:47 INFO  RITestBase:44 - Navigating to the Application :https://interact.qa1.responsys.net/interact/login/LoginPage
+2018-06-04 15:44:47 INFO  RITestBase:75 - Navigating to the Application:https://interact.qa1.responsys.net/interact/login/LoginPage
+2018-06-04 15:44:52 INFO  RI_TC_01_CreateEmailCamapign:30 - :Starting of Test:
+2018-06-04 15:44:52 INFO  RISignInPage:38 - Entering RI User Name:gokulmvt :At [[ChromeDriver: chrome on XP (bbb4d6983008694bc27c7e39008c2985)] -> xpath: //input[@id='txtUserName']]
+2018-06-04 15:44:52 INFO  RISignInPage:40 - Entering RI RIPasswrodssword:Welcome1234! :At [[ChromeDriver: chrome on XP (bbb4d6983008694bc27c7e39008c2985)] -> xpath: //input[@id='txtPassword']]
+2018-06-04 15:44:52 INFO  RISignInPage:42 - Clicking on SignIn Button of RI Login Page At:[[ChromeDriver: chrome on XP (bbb4d6983008694bc27c7e39008c2985)] -> xpath: //form[@id='loginForm']//button[@id='signIn']]
+2018-06-19 11:14:55 INFO  RITestBase:33 - java.io.FileInputStream@394e1a0f
+2018-06-19 11:14:55 INFO  RITestBase:42 - Selecting the browser:chrome
+2018-06-19 11:14:55 INFO  RITestBase:60 - Launching:trueBrowser
+2018-06-19 11:14:59 INFO  RITestBase:44 - Navigating to the Application :https://interact.qa1.responsys.net/interact/login/LoginPage
+2018-06-19 11:14:59 INFO  RITestBase:75 - Navigating to the Application:https://interact.qa1.responsys.net/interact/login/LoginPage
+2018-06-19 11:15:03 INFO  RI_TC_01_CreateEmailCamapign:30 - :Starting of Test:
+2018-06-19 11:15:03 INFO  RISignInPage:38 - Entering RI User Name:gokulmvt :At [[ChromeDriver: chrome on XP (d5232cccd8a5b49fd938c96752044552)] -> xpath: //input[@id='txtUserName']]
+2018-06-19 11:15:03 INFO  RISignInPage:40 - Entering RI RIPasswrodssword:Welcome1234% :At [[ChromeDriver: chrome on XP (d5232cccd8a5b49fd938c96752044552)] -> xpath: //input[@id='txtPassword']]
+2018-06-19 11:15:03 INFO  RISignInPage:42 - Clicking on SignIn Button of RI Login Page At:[[ChromeDriver: chrome on XP (d5232cccd8a5b49fd938c96752044552)] -> xpath: //form[@id='loginForm']//button[@id='signIn']]
+2018-06-19 11:17:49 INFO  RITestBase:33 - java.io.FileInputStream@394e1a0f
+2018-06-19 11:17:49 INFO  RITestBase:42 - Selecting the browser:chrome
+2018-06-19 11:17:49 INFO  RITestBase:60 - Launching:trueBrowser
+2018-06-19 11:17:53 INFO  RITestBase:44 - Navigating to the Application :https://interact.qa1.responsys.net/interact/login/LoginPage
+2018-06-19 11:17:53 INFO  RITestBase:75 - Navigating to the Application:https://interact.qa1.responsys.net/interact/login/LoginPage
+2018-06-19 11:17:57 INFO  RI_TC_01_CreateEmailCamapign:31 - :Starting of Test:
+2018-06-19 11:17:57 INFO  RISignInPage:38 - Entering RI User Name:gokulmvt :At [[ChromeDriver: chrome on XP (d5ffa136c2244fb2d3a7debf61779923)] -> xpath: //input[@id='txtUserName']]
+2018-06-19 11:17:57 INFO  RISignInPage:40 - Entering RI RIPasswrodssword:Welcome1234% :At [[ChromeDriver: chrome on XP (d5ffa136c2244fb2d3a7debf61779923)] -> xpath: //input[@id='txtPassword']]
+2018-06-19 11:17:57 INFO  RISignInPage:42 - Clicking on SignIn Button of RI Login Page At:[[ChromeDriver: chrome on XP (d5ffa136c2244fb2d3a7debf61779923)] -> xpath: //form[@id='loginForm']//button[@id='signIn']]
+2018-06-19 11:19:39 INFO  RITestBase:33 - java.io.FileInputStream@394e1a0f
+2018-06-19 11:19:39 INFO  RITestBase:42 - Selecting the browser:chrome
+2018-06-19 11:19:39 INFO  RITestBase:60 - Launching:trueBrowser
+2018-06-19 11:19:42 INFO  RITestBase:44 - Navigating to the Application :https://interact.qa1.responsys.net/interact/login/LoginPage
+2018-06-19 11:19:42 INFO  RITestBase:75 - Navigating to the Application:https://interact.qa1.responsys.net/interact/login/LoginPage
+2018-06-19 11:19:46 INFO  RI_TC_01_CreateEmailCamapign:31 - :Starting of Test:
+2018-06-19 11:19:47 INFO  RISignInPage:38 - Entering RI User Name:gokulmvt :At [[ChromeDriver: chrome on XP (f14a9d3b400a91fd8e5944e9c2e0a4dd)] -> xpath: //input[@id='txtUserName']]
+2018-06-19 11:19:47 INFO  RISignInPage:40 - Entering RI RIPasswrodssword:Welcome1234% :At [[ChromeDriver: chrome on XP (f14a9d3b400a91fd8e5944e9c2e0a4dd)] -> xpath: //input[@id='txtPassword']]
+2018-06-19 11:19:47 INFO  RISignInPage:42 - Clicking on SignIn Button of RI Login Page At:[[ChromeDriver: chrome on XP (f14a9d3b400a91fd8e5944e9c2e0a4dd)] -> xpath: //form[@id='loginForm']//button[@id='signIn']]
+2018-06-19 11:21:41 INFO  RITestBase:33 - java.io.FileInputStream@394e1a0f
+2018-06-19 11:21:41 INFO  RITestBase:42 - Selecting the browser:chrome
+2018-06-19 11:21:41 INFO  RITestBase:60 - Launching:trueBrowser
+2018-06-19 11:21:44 INFO  RITestBase:44 - Navigating to the Application :https://interact.qa1.responsys.net/interact/login/LoginPage
+2018-06-19 11:21:44 INFO  RITestBase:75 - Navigating to the Application:https://interact.qa1.responsys.net/interact/login/LoginPage
+2018-06-19 11:21:49 INFO  RI_TC_01_CreateEmailCamapign:31 - :Starting of Test:
+2018-06-19 11:21:49 INFO  RISignInPage:38 - Entering RI User Name:gokulmvt :At [[ChromeDriver: chrome on XP (cbef3cccea417d8908880bb78a2d4033)] -> xpath: //input[@id='txtUserName']]
+2018-06-19 11:21:50 INFO  RISignInPage:40 - Entering RI RIPasswrodssword:Welcome1234% :At [[ChromeDriver: chrome on XP (cbef3cccea417d8908880bb78a2d4033)] -> xpath: //input[@id='txtPassword']]
+2018-06-19 11:21:50 INFO  RISignInPage:42 - Clicking on SignIn Button of RI Login Page At:[[ChromeDriver: chrome on XP (cbef3cccea417d8908880bb78a2d4033)] -> xpath: //form[@id='loginForm']//button[@id='signIn']]
+2018-06-19 11:23:45 INFO  RITestBase:33 - java.io.FileInputStream@394e1a0f
+2018-06-19 11:23:45 INFO  RITestBase:42 - Selecting the browser:chrome
+2018-06-19 11:23:45 INFO  RITestBase:60 - Launching:trueBrowser
+2018-06-19 11:23:48 INFO  RITestBase:44 - Navigating to the Application :https://interact.qa1.responsys.net/interact/login/LoginPage
+2018-06-19 11:23:48 INFO  RITestBase:75 - Navigating to the Application:https://interact.qa1.responsys.net/interact/login/LoginPage
+2018-06-19 11:23:53 INFO  RI_TC_01_CreateEmailCamapign:31 - :Starting of Test:
+2018-06-19 11:23:53 INFO  RISignInPage:38 - Entering RI User Name:gokulmvt :At [[ChromeDriver: chrome on XP (cede554a1d7803029830b7f918aff5f4)] -> xpath: //input[@id='txtUserName']]
+2018-06-19 11:23:53 INFO  RISignInPage:40 - Entering RI RIPasswrodssword:Welcome1234% :At [[ChromeDriver: chrome on XP (cede554a1d7803029830b7f918aff5f4)] -> xpath: //input[@id='txtPassword']]
+2018-06-19 11:23:53 INFO  RISignInPage:42 - Clicking on SignIn Button of RI Login Page At:[[ChromeDriver: chrome on XP (cede554a1d7803029830b7f918aff5f4)] -> xpath: //form[@id='loginForm']//button[@id='signIn']]
+2018-06-19 11:25:04 INFO  RITestBase:33 - java.io.FileInputStream@394e1a0f
+2018-06-19 11:25:04 INFO  RITestBase:42 - Selecting the browser:chrome
+2018-06-19 11:25:04 INFO  RITestBase:60 - Launching:trueBrowser
+2018-06-19 11:25:07 INFO  RITestBase:44 - Navigating to the Application :https://interact.qa1.responsys.net/interact/login/LoginPage
+2018-06-19 11:25:07 INFO  RITestBase:75 - Navigating to the Application:https://interact.qa1.responsys.net/interact/login/LoginPage
+2018-06-19 11:25:11 INFO  RI_TC_01_CreateEmailCamapign:31 - :Starting of Test:
+2018-06-19 11:25:11 INFO  RISignInPage:38 - Entering RI User Name:gokulmvt :At [[ChromeDriver: chrome on XP (b4a1f1aeabc32c2876cd5b8abb9937bc)] -> xpath: //input[@id='txtUserName']]
+2018-06-19 11:25:11 INFO  RISignInPage:40 - Entering RI RIPasswrodssword:Welcome1234% :At [[ChromeDriver: chrome on XP (b4a1f1aeabc32c2876cd5b8abb9937bc)] -> xpath: //input[@id='txtPassword']]
+2018-06-19 11:25:11 INFO  RISignInPage:42 - Clicking on SignIn Button of RI Login Page At:[[ChromeDriver: chrome on XP (b4a1f1aeabc32c2876cd5b8abb9937bc)] -> xpath: //form[@id='loginForm']//button[@id='signIn']]
+2018-06-19 11:26:17 INFO  RITestBase:33 - java.io.FileInputStream@394e1a0f
+2018-06-19 11:26:17 INFO  RITestBase:42 - Selecting the browser:chrome
+2018-06-19 11:26:17 INFO  RITestBase:60 - Launching:trueBrowser
+2018-06-19 11:26:20 INFO  RITestBase:44 - Navigating to the Application :https://interact.qa1.responsys.net/interact/login/LoginPage
+2018-06-19 11:26:20 INFO  RITestBase:75 - Navigating to the Application:https://interact.qa1.responsys.net/interact/login/LoginPage
+2018-06-19 11:26:24 INFO  RI_TC_01_CreateEmailCamapign:31 - :Starting of Test:
+2018-06-19 11:26:24 INFO  RISignInPage:38 - Entering RI User Name:gokulmvt :At [[ChromeDriver: chrome on XP (8afcfabdfdef4e16db63cd3752b14b2e)] -> xpath: //input[@id='txtUserName']]
+2018-06-19 11:26:24 INFO  RISignInPage:40 - Entering RI RIPasswrodssword:Welcome1234% :At [[ChromeDriver: chrome on XP (8afcfabdfdef4e16db63cd3752b14b2e)] -> xpath: //input[@id='txtPassword']]
+2018-06-19 11:26:24 INFO  RISignInPage:42 - Clicking on SignIn Button of RI Login Page At:[[ChromeDriver: chrome on XP (8afcfabdfdef4e16db63cd3752b14b2e)] -> xpath: //form[@id='loginForm']//button[@id='signIn']]
+2018-06-19 11:34:07 INFO  RITestBase:33 - java.io.FileInputStream@394e1a0f
+2018-06-19 11:34:07 INFO  RITestBase:42 - Selecting the browser:chrome
+2018-06-19 11:34:07 INFO  RITestBase:60 - Launching:trueBrowser
+2018-06-19 11:34:10 INFO  RITestBase:44 - Navigating to the Application :https://interact.qa1.responsys.net/interact/login/LoginPage
+2018-06-19 11:34:10 INFO  RITestBase:75 - Navigating to the Application:https://interact.qa1.responsys.net/interact/login/LoginPage
+2018-06-19 11:34:14 INFO  RI_TC_01_CreateEmailCamapign:31 - :Starting of Test:
+2018-06-19 11:34:14 INFO  RISignInPage:38 - Entering RI User Name:gokulmvt :At [[ChromeDriver: chrome on XP (8cba9b52b805da6ac6af6a4d37c92806)] -> xpath: //input[@id='txtUserName']]
+2018-06-19 11:34:15 INFO  RISignInPage:40 - Entering RI RIPasswrodssword:Welcome1234% :At [[ChromeDriver: chrome on XP (8cba9b52b805da6ac6af6a4d37c92806)] -> xpath: //input[@id='txtPassword']]
+2018-06-19 11:34:15 INFO  RISignInPage:42 - Clicking on SignIn Button of RI Login Page At:[[ChromeDriver: chrome on XP (8cba9b52b805da6ac6af6a4d37c92806)] -> xpath: //form[@id='loginForm']//button[@id='signIn']]
+2018-06-19 11:35:24 INFO  RITestBase:33 - java.io.FileInputStream@394e1a0f
+2018-06-19 11:35:24 INFO  RITestBase:42 - Selecting the browser:chrome
+2018-06-19 11:35:24 INFO  RITestBase:60 - Launching:trueBrowser
+2018-06-19 11:35:27 INFO  RITestBase:44 - Navigating to the Application :https://interact.qa1.responsys.net/interact/login/LoginPage
+2018-06-19 11:35:27 INFO  RITestBase:75 - Navigating to the Application:https://interact.qa1.responsys.net/interact/login/LoginPage
+2018-06-19 11:35:31 INFO  RI_TC_01_CreateEmailCamapign:31 - :Starting of Test:
+2018-06-19 11:35:31 INFO  RISignInPage:38 - Entering RI User Name:gokulmvt :At [[ChromeDriver: chrome on XP (c220cccb176c01b5c57227aabb245a17)] -> xpath: //input[@id='txtUserName']]
+2018-06-19 11:35:31 INFO  RISignInPage:40 - Entering RI RIPasswrodssword:Welcome1234% :At [[ChromeDriver: chrome on XP (c220cccb176c01b5c57227aabb245a17)] -> xpath: //input[@id='txtPassword']]
+2018-06-19 11:35:31 INFO  RISignInPage:42 - Clicking on SignIn Button of RI Login Page At:[[ChromeDriver: chrome on XP (c220cccb176c01b5c57227aabb245a17)] -> xpath: //form[@id='loginForm']//button[@id='signIn']]
+2018-06-19 12:01:04 INFO  RITestBase:33 - java.io.FileInputStream@394e1a0f
+2018-06-19 12:01:04 INFO  RITestBase:42 - Selecting the browser:chrome
+2018-06-19 12:01:04 INFO  RITestBase:60 - Launching:trueBrowser
+2018-06-19 12:01:07 INFO  RITestBase:44 - Navigating to the Application :https://interact.qa1.responsys.net/interact/login/LoginPage
+2018-06-19 12:01:07 INFO  RITestBase:75 - Navigating to the Application:https://interact.qa1.responsys.net/interact/login/LoginPage
+2018-06-19 12:01:16 INFO  RI_TC_01_CreateEmailCamapign:31 - :Starting of Test:
+2018-06-19 12:01:16 INFO  RISignInPage:38 - Entering RI User Name:gokulmvt :At [[ChromeDriver: chrome on XP (bc50218211163fd02dae139af526c0e8)] -> xpath: //input[@id='txtUserName']]
+2018-06-19 12:01:16 INFO  RISignInPage:40 - Entering RI RIPasswrodssword:Welcome1234% :At [[ChromeDriver: chrome on XP (bc50218211163fd02dae139af526c0e8)] -> xpath: //input[@id='txtPassword']]
+2018-06-19 12:01:16 INFO  RISignInPage:42 - Clicking on SignIn Button of RI Login Page At:[[ChromeDriver: chrome on XP (bc50218211163fd02dae139af526c0e8)] -> xpath: //form[@id='loginForm']//button[@id='signIn']]
+2018-06-19 12:02:57 INFO  RITestBase:33 - java.io.FileInputStream@394e1a0f
+2018-06-19 12:02:57 INFO  RITestBase:42 - Selecting the browser:chrome
+2018-06-19 12:02:57 INFO  RITestBase:60 - Launching:trueBrowser
+2018-06-19 12:03:00 INFO  RITestBase:44 - Navigating to the Application :https://interact.qa1.responsys.net/interact/login/LoginPage
+2018-06-19 12:03:00 INFO  RITestBase:75 - Navigating to the Application:https://interact.qa1.responsys.net/interact/login/LoginPage
+2018-06-19 12:03:16 INFO  RI_TC_01_CreateEmailCamapign:31 - :Starting of Test:
+2018-06-19 12:03:16 INFO  RISignInPage:38 - Entering RI User Name:gokulmvt :At [[ChromeDriver: chrome on XP (004fb67fc5e68f1e6800909f13027d24)] -> xpath: //input[@id='txtUserName']]
+2018-06-19 12:03:16 INFO  RISignInPage:40 - Entering RI RIPasswrodssword:Welcome1234% :At [[ChromeDriver: chrome on XP (004fb67fc5e68f1e6800909f13027d24)] -> xpath: //input[@id='txtPassword']]
+2018-06-19 12:03:16 INFO  RISignInPage:42 - Clicking on SignIn Button of RI Login Page At:[[ChromeDriver: chrome on XP (004fb67fc5e68f1e6800909f13027d24)] -> xpath: //form[@id='loginForm']//button[@id='signIn']]
+2018-06-19 12:06:32 INFO  RITestBase:33 - java.io.FileInputStream@394e1a0f
+2018-06-19 12:06:32 INFO  RITestBase:42 - Selecting the browser:chrome
+2018-06-19 12:06:32 INFO  RITestBase:60 - Launching:trueBrowser
+2018-06-19 12:06:35 INFO  RITestBase:44 - Navigating to the Application :https://interact.qa1.responsys.net/interact/login/LoginPage
+2018-06-19 12:06:35 INFO  RITestBase:75 - Navigating to the Application:https://interact.qa1.responsys.net/interact/login/LoginPage
+2018-06-19 12:06:39 INFO  RI_TC_01_CreateEmailCamapign:31 - :Starting of Test:
+2018-06-19 12:06:39 INFO  RISignInPage:38 - Entering RI User Name:gokulmvt :At [[ChromeDriver: chrome on XP (754e459a64f2a17920e7de575270c7b3)] -> xpath: //input[@id='txtUserName']]
+2018-06-19 12:06:39 INFO  RISignInPage:40 - Entering RI RIPasswrodssword:Welcome1234% :At [[ChromeDriver: chrome on XP (754e459a64f2a17920e7de575270c7b3)] -> xpath: //input[@id='txtPassword']]
+2018-06-19 12:06:39 INFO  RISignInPage:42 - Clicking on SignIn Button of RI Login Page At:[[ChromeDriver: chrome on XP (754e459a64f2a17920e7de575270c7b3)] -> xpath: //form[@id='loginForm']//button[@id='signIn']]
+2018-06-19 12:13:11 INFO  RITestBase:33 - java.io.FileInputStream@394e1a0f
+2018-06-19 12:13:11 INFO  RITestBase:42 - Selecting the browser:chrome
+2018-06-19 12:13:11 INFO  RITestBase:60 - Launching:trueBrowser
+2018-06-19 12:13:14 INFO  RITestBase:44 - Navigating to the Application :https://interact.qa1.responsys.net/interact/login/LoginPage
+2018-06-19 12:13:14 INFO  RITestBase:75 - Navigating to the Application:https://interact.qa1.responsys.net/interact/login/LoginPage
+2018-06-19 12:13:19 INFO  RI_TC_01_CreateEmailCamapign:31 - :Starting of Test:
+2018-06-19 12:13:19 INFO  RISignInPage:38 - Entering RI User Name:gokulmvt :At [[ChromeDriver: chrome on XP (2f8263b66ce08342503da78db893441d)] -> xpath: //input[@id='txtUserName']]
+2018-06-19 12:13:19 INFO  RISignInPage:40 - Entering RI RIPasswrodssword:Welcome1234% :At [[ChromeDriver: chrome on XP (2f8263b66ce08342503da78db893441d)] -> xpath: //input[@id='txtPassword']]
+2018-06-19 12:13:19 INFO  RISignInPage:42 - Clicking on SignIn Button of RI Login Page At:[[ChromeDriver: chrome on XP (2f8263b66ce08342503da78db893441d)] -> xpath: //form[@id='loginForm']//button[@id='signIn']]
+2018-06-19 12:17:35 INFO  RITestBase:33 - java.io.FileInputStream@394e1a0f
+2018-06-19 12:17:35 INFO  RITestBase:42 - Selecting the browser:chrome
+2018-06-19 12:17:35 INFO  RITestBase:60 - Launching:trueBrowser
+2018-06-19 12:17:38 INFO  RITestBase:44 - Navigating to the Application :https://interact.qa1.responsys.net/interact/login/LoginPage
+2018-06-19 12:17:38 INFO  RITestBase:75 - Navigating to the Application:https://interact.qa1.responsys.net/interact/login/LoginPage
+2018-06-19 12:17:44 INFO  RI_TC_01_CreateEmailCamapign:31 - :Starting of Test:
+2018-06-19 12:17:44 INFO  RISignInPage:38 - Entering RI User Name:gokulmvt :At [[ChromeDriver: chrome on XP (8237880fa430766188269c95923950bf)] -> xpath: //input[@id='txtUserName']]
+2018-06-19 12:17:44 INFO  RISignInPage:40 - Entering RI RIPasswrodssword:Welcome1234% :At [[ChromeDriver: chrome on XP (8237880fa430766188269c95923950bf)] -> xpath: //input[@id='txtPassword']]
+2018-06-19 12:17:44 INFO  RISignInPage:42 - Clicking on SignIn Button of RI Login Page At:[[ChromeDriver: chrome on XP (8237880fa430766188269c95923950bf)] -> xpath: //form[@id='loginForm']//button[@id='signIn']]
+2018-06-19 12:29:13 INFO  RITestBase:33 - java.io.FileInputStream@394e1a0f
+2018-06-19 12:29:13 INFO  RITestBase:42 - Selecting the browser:chrome
+2018-06-19 12:29:13 INFO  RITestBase:60 - Launching:trueBrowser
+2018-06-19 12:29:17 INFO  RITestBase:44 - Navigating to the Application :https://interact.qa1.responsys.net/interact/login/LoginPage
+2018-06-19 12:29:17 INFO  RITestBase:75 - Navigating to the Application:https://interact.qa1.responsys.net/interact/login/LoginPage
+2018-06-19 12:29:24 INFO  RI_TC_01_Verify_Launch_Status:31 - :Starting of Test:
+2018-06-19 12:29:24 INFO  RISignInPage:38 - Entering RI User Name:gokulmvt :At [[ChromeDriver: chrome on XP (ca70fc1bd9c6d7d47c59f5afc23b1c33)] -> xpath: //input[@id='txtUserName']]
+2018-06-19 12:29:24 INFO  RISignInPage:40 - Entering RI RIPasswrodssword:Welcome1234% :At [[ChromeDriver: chrome on XP (ca70fc1bd9c6d7d47c59f5afc23b1c33)] -> xpath: //input[@id='txtPassword']]
+2018-06-19 12:29:24 INFO  RISignInPage:42 - Clicking on SignIn Button of RI Login Page At:[[ChromeDriver: chrome on XP (ca70fc1bd9c6d7d47c59f5afc23b1c33)] -> xpath: //form[@id='loginForm']//button[@id='signIn']]
+2018-06-19 12:33:19 INFO  RITestBase:33 - java.io.FileInputStream@394e1a0f
+2018-06-19 12:33:19 INFO  RITestBase:42 - Selecting the browser:chrome
+2018-06-19 12:33:19 INFO  RITestBase:60 - Launching:trueBrowser
+2018-06-19 12:33:22 INFO  RITestBase:44 - Navigating to the Application :https://interact.qa1.responsys.net/interact/login/LoginPage
+2018-06-19 12:33:22 INFO  RITestBase:75 - Navigating to the Application:https://interact.qa1.responsys.net/interact/login/LoginPage
+2018-06-19 12:33:29 INFO  RI_TC_01_Verify_Launch_Status:31 - :Starting of Test:
+2018-06-19 12:33:29 INFO  RISignInPage:38 - Entering RI User Name:gokulmvt :At [[ChromeDriver: chrome on XP (d21b350cfa44b16b11f5820b726561d8)] -> xpath: //input[@id='txtUserName']]
+2018-06-19 12:33:29 INFO  RISignInPage:40 - Entering RI RIPasswrodssword:Welcome1234% :At [[ChromeDriver: chrome on XP (d21b350cfa44b16b11f5820b726561d8)] -> xpath: //input[@id='txtPassword']]
+2018-06-19 12:33:29 INFO  RISignInPage:42 - Clicking on SignIn Button of RI Login Page At:[[ChromeDriver: chrome on XP (d21b350cfa44b16b11f5820b726561d8)] -> xpath: //form[@id='loginForm']//button[@id='signIn']]
+2018-06-19 12:47:18 INFO  RITestBase:33 - java.io.FileInputStream@53f65459
+2018-06-19 12:47:18 INFO  RITestBase:42 - Selecting the browser:chrome
+2018-06-19 12:47:18 INFO  RITestBase:60 - Launching:trueBrowser
+2018-06-19 12:47:21 INFO  RITestBase:44 - Navigating to the Application :https://interact.qa1.responsys.net/interact/login/LoginPage
+2018-06-19 12:47:21 INFO  RITestBase:75 - Navigating to the Application:https://interact.qa1.responsys.net/interact/login/LoginPage
+2018-06-19 12:47:27 INFO  RI_TC_01_Verify_Launch_Status:34 - :Starting of Test:
+2018-06-19 12:47:27 INFO  RISignInPage:38 - Entering RI User Name:gokulmvt :At [[ChromeDriver: chrome on XP (b65227599271e7e7baee651d456d3f5b)] -> xpath: //input[@id='txtUserName']]
+2018-06-19 12:47:27 INFO  RISignInPage:40 - Entering RI RIPasswrodssword:Welcome1234% :At [[ChromeDriver: chrome on XP (b65227599271e7e7baee651d456d3f5b)] -> xpath: //input[@id='txtPassword']]
+2018-06-19 12:47:27 INFO  RISignInPage:42 - Clicking on SignIn Button of RI Login Page At:[[ChromeDriver: chrome on XP (b65227599271e7e7baee651d456d3f5b)] -> xpath: //form[@id='loginForm']//button[@id='signIn']]
+2018-06-19 12:51:21 INFO  RITestBase:33 - java.io.FileInputStream@53f65459
+2018-06-19 12:51:21 INFO  RITestBase:42 - Selecting the browser:chrome
+2018-06-19 12:51:21 INFO  RITestBase:60 - Launching:trueBrowser
+2018-06-19 12:51:24 INFO  RITestBase:44 - Navigating to the Application :https://interact.qa1.responsys.net/interact/login/LoginPage
+2018-06-19 12:51:24 INFO  RITestBase:75 - Navigating to the Application:https://interact.qa1.responsys.net/interact/login/LoginPage
+2018-06-19 12:51:33 INFO  RI_TC_01_Verify_Launch_Status:34 - :Starting of Test:
+2018-06-19 12:51:33 INFO  RISignInPage:38 - Entering RI User Name:gokulmvt :At [[ChromeDriver: chrome on XP (59fb9011d85593223c843211f84a4270)] -> xpath: //input[@id='txtUserName']]
+2018-06-19 12:51:33 INFO  RISignInPage:40 - Entering RI RIPasswrodssword:Welcome1234% :At [[ChromeDriver: chrome on XP (59fb9011d85593223c843211f84a4270)] -> xpath: //input[@id='txtPassword']]
+2018-06-19 12:51:33 INFO  RISignInPage:42 - Clicking on SignIn Button of RI Login Page At:[[ChromeDriver: chrome on XP (59fb9011d85593223c843211f84a4270)] -> xpath: //form[@id='loginForm']//button[@id='signIn']]
+2018-06-19 14:37:44 INFO  RITestBase:33 - java.io.FileInputStream@53f65459
+2018-06-19 14:37:44 INFO  RITestBase:42 - Selecting the browser:chrome
+2018-06-19 14:37:44 INFO  RITestBase:60 - Launching:trueBrowser
+2018-06-19 14:37:47 INFO  RITestBase:44 - Navigating to the Application :https://interact.qa1.responsys.net/interact/login/LoginPage
+2018-06-19 14:37:47 INFO  RITestBase:75 - Navigating to the Application:https://interact.qa1.responsys.net/interact/login/LoginPage
+2018-06-19 14:37:51 INFO  RI_TC_01_Verify_Launch_Status:34 - :Starting of Test:
+2018-06-19 14:37:51 INFO  RISignInPage:38 - Entering RI User Name:gokulmvt :At [[ChromeDriver: chrome on XP (e40f4c78cd1a8a59657fa8ac4453dadd)] -> xpath: //input[@id='txtUserName']]
+2018-06-19 14:37:52 INFO  RISignInPage:40 - Entering RI RIPasswrodssword:Welcome1234% :At [[ChromeDriver: chrome on XP (e40f4c78cd1a8a59657fa8ac4453dadd)] -> xpath: //input[@id='txtPassword']]
+2018-06-19 14:37:52 INFO  RISignInPage:42 - Clicking on SignIn Button of RI Login Page At:[[ChromeDriver: chrome on XP (e40f4c78cd1a8a59657fa8ac4453dadd)] -> xpath: //form[@id='loginForm']//button[@id='signIn']]
+2018-06-19 14:41:14 INFO  RITestBase:33 - java.io.FileInputStream@53f65459
+2018-06-19 14:41:14 INFO  RITestBase:42 - Selecting the browser:chrome
+2018-06-19 14:41:14 INFO  RITestBase:60 - Launching:trueBrowser
+2018-06-19 14:41:17 INFO  RITestBase:44 - Navigating to the Application :https://interact.qa1.responsys.net/interact/login/LoginPage
+2018-06-19 14:41:17 INFO  RITestBase:75 - Navigating to the Application:https://interact.qa1.responsys.net/interact/login/LoginPage
+2018-06-19 14:41:25 INFO  RI_TC_01_Verify_Launch_Status:34 - :Starting of Test:
+2018-06-19 14:41:25 INFO  RISignInPage:38 - Entering RI User Name:gokulmvt :At [[ChromeDriver: chrome on XP (f481bc68e3229daf13d6242340dc30db)] -> xpath: //input[@id='txtUserName']]
+2018-06-19 14:41:25 INFO  RISignInPage:40 - Entering RI RIPasswrodssword:Welcome1234% :At [[ChromeDriver: chrome on XP (f481bc68e3229daf13d6242340dc30db)] -> xpath: //input[@id='txtPassword']]
+2018-06-19 14:41:25 INFO  RISignInPage:42 - Clicking on SignIn Button of RI Login Page At:[[ChromeDriver: chrome on XP (f481bc68e3229daf13d6242340dc30db)] -> xpath: //form[@id='loginForm']//button[@id='signIn']]
+2018-06-19 14:43:09 INFO  RITestBase:33 - java.io.FileInputStream@53f65459
+2018-06-19 14:43:09 INFO  RITestBase:42 - Selecting the browser:chrome
+2018-06-19 14:43:09 INFO  RITestBase:60 - Launching:trueBrowser
+2018-06-19 14:43:13 INFO  RITestBase:44 - Navigating to the Application :https://interact.qa1.responsys.net/interact/login/LoginPage
+2018-06-19 14:43:13 INFO  RITestBase:75 - Navigating to the Application:https://interact.qa1.responsys.net/interact/login/LoginPage
+2018-06-19 14:43:18 INFO  RI_TC_01_Verify_Launch_Status:34 - :Starting of Test:
+2018-06-19 14:43:18 INFO  RISignInPage:38 - Entering RI User Name:gokulmvt :At [[ChromeDriver: chrome on XP (26570f7bcd4d0b061d7ea1a12009d496)] -> xpath: //input[@id='txtUserName']]
+2018-06-19 14:43:18 INFO  RISignInPage:40 - Entering RI RIPasswrodssword:Welcome1234% :At [[ChromeDriver: chrome on XP (26570f7bcd4d0b061d7ea1a12009d496)] -> xpath: //input[@id='txtPassword']]
+2018-06-19 14:43:18 INFO  RISignInPage:42 - Clicking on SignIn Button of RI Login Page At:[[ChromeDriver: chrome on XP (26570f7bcd4d0b061d7ea1a12009d496)] -> xpath: //form[@id='loginForm']//button[@id='signIn']]
+2018-06-19 14:46:09 INFO  RITestBase:33 - java.io.FileInputStream@53f65459
+2018-06-19 14:46:09 INFO  RITestBase:42 - Selecting the browser:chrome
+2018-06-19 14:46:09 INFO  RITestBase:60 - Launching:trueBrowser
+2018-06-19 14:46:12 INFO  RITestBase:44 - Navigating to the Application :https://interact.qa1.responsys.net/interact/login/LoginPage
+2018-06-19 14:46:12 INFO  RITestBase:75 - Navigating to the Application:https://interact.qa1.responsys.net/interact/login/LoginPage
+2018-06-19 14:46:18 INFO  RI_TC_01_Verify_Launch_Status:34 - :Starting of Test:
+2018-06-19 14:46:18 INFO  RISignInPage:38 - Entering RI User Name:gokulmvt :At [[ChromeDriver: chrome on XP (e2519111e68b2c832d9713ae847ec68c)] -> xpath: //input[@id='txtUserName']]
+2018-06-19 14:46:18 INFO  RISignInPage:40 - Entering RI RIPasswrodssword:Welcome1234% :At [[ChromeDriver: chrome on XP (e2519111e68b2c832d9713ae847ec68c)] -> xpath: //input[@id='txtPassword']]
+2018-06-19 14:46:18 INFO  RISignInPage:42 - Clicking on SignIn Button of RI Login Page At:[[ChromeDriver: chrome on XP (e2519111e68b2c832d9713ae847ec68c)] -> xpath: //form[@id='loginForm']//button[@id='signIn']]
+2018-06-19 14:49:15 INFO  RITestBase:33 - java.io.FileInputStream@53f65459
+2018-06-19 14:49:15 INFO  RITestBase:42 - Selecting the browser:chrome
+2018-06-19 14:49:15 INFO  RITestBase:60 - Launching:trueBrowser
+2018-06-19 14:49:18 INFO  RITestBase:44 - Navigating to the Application :https://interact.qa1.responsys.net/interact/login/LoginPage
+2018-06-19 14:49:18 INFO  RITestBase:75 - Navigating to the Application:https://interact.qa1.responsys.net/interact/login/LoginPage
+2018-06-19 14:49:22 INFO  RI_TC_01_Verify_Launch_Status:34 - :Starting of Test:
+2018-06-19 14:49:23 INFO  RISignInPage:38 - Entering RI User Name:gokulmvt :At [[ChromeDriver: chrome on XP (5b2cecd7109fe748758b44e53f4094bd)] -> xpath: //input[@id='txtUserName']]
+2018-06-19 14:49:23 INFO  RISignInPage:40 - Entering RI RIPasswrodssword:Welcome1234% :At [[ChromeDriver: chrome on XP (5b2cecd7109fe748758b44e53f4094bd)] -> xpath: //input[@id='txtPassword']]
+2018-06-19 14:49:23 INFO  RISignInPage:42 - Clicking on SignIn Button of RI Login Page At:[[ChromeDriver: chrome on XP (5b2cecd7109fe748758b44e53f4094bd)] -> xpath: //form[@id='loginForm']//button[@id='signIn']]
+2018-06-19 14:52:26 INFO  RITestBase:33 - java.io.FileInputStream@53f65459
+2018-06-19 14:52:26 INFO  RITestBase:42 - Selecting the browser:chrome
+2018-06-19 14:52:26 INFO  RITestBase:60 - Launching:trueBrowser
+2018-06-19 14:52:29 INFO  RITestBase:44 - Navigating to the Application :https://interact.qa1.responsys.net/interact/login/LoginPage
+2018-06-19 14:52:29 INFO  RITestBase:75 - Navigating to the Application:https://interact.qa1.responsys.net/interact/login/LoginPage
+2018-06-19 14:52:34 INFO  RI_TC_01_Verify_Launch_Status:34 - :Starting of Test:
+2018-06-19 14:52:34 INFO  RISignInPage:38 - Entering RI User Name:gokulmvt :At [[ChromeDriver: chrome on XP (2c82e6ad05310f29308e1cef17a99174)] -> xpath: //input[@id='txtUserName']]
+2018-06-19 14:52:34 INFO  RISignInPage:40 - Entering RI RIPasswrodssword:Welcome1234% :At [[ChromeDriver: chrome on XP (2c82e6ad05310f29308e1cef17a99174)] -> xpath: //input[@id='txtPassword']]
+2018-06-19 14:52:34 INFO  RISignInPage:42 - Clicking on SignIn Button of RI Login Page At:[[ChromeDriver: chrome on XP (2c82e6ad05310f29308e1cef17a99174)] -> xpath: //form[@id='loginForm']//button[@id='signIn']]
+2018-06-19 14:56:10 INFO  RITestBase:33 - java.io.FileInputStream@53f65459
+2018-06-19 14:56:10 INFO  RITestBase:42 - Selecting the browser:chrome
+2018-06-19 14:56:10 INFO  RITestBase:60 - Launching:trueBrowser
+2018-06-19 14:56:13 INFO  RITestBase:44 - Navigating to the Application :https://interact.qa1.responsys.net/interact/login/LoginPage
+2018-06-19 14:56:13 INFO  RITestBase:75 - Navigating to the Application:https://interact.qa1.responsys.net/interact/login/LoginPage
+2018-06-19 14:56:18 INFO  RI_TC_01_Verify_Launch_Status:34 - :Starting of Test:
+2018-06-19 14:56:18 INFO  RISignInPage:38 - Entering RI User Name:gokulmvt :At [[ChromeDriver: chrome on XP (79088cfcce87693bdeec10ede411b35b)] -> xpath: //input[@id='txtUserName']]
+2018-06-19 14:56:18 INFO  RISignInPage:40 - Entering RI RIPasswrodssword:Welcome1234% :At [[ChromeDriver: chrome on XP (79088cfcce87693bdeec10ede411b35b)] -> xpath: //input[@id='txtPassword']]
+2018-06-19 14:56:18 INFO  RISignInPage:42 - Clicking on SignIn Button of RI Login Page At:[[ChromeDriver: chrome on XP (79088cfcce87693bdeec10ede411b35b)] -> xpath: //form[@id='loginForm']//button[@id='signIn']]
+2018-06-19 15:06:59 INFO  RITestBase:33 - java.io.FileInputStream@53f65459
+2018-06-19 15:06:59 INFO  RITestBase:42 - Selecting the browser:chrome
+2018-06-19 15:06:59 INFO  RITestBase:60 - Launching:trueBrowser
+2018-06-19 15:07:02 INFO  RITestBase:44 - Navigating to the Application :https://interact.qa1.responsys.net/interact/login/LoginPage
+2018-06-19 15:07:02 INFO  RITestBase:75 - Navigating to the Application:https://interact.qa1.responsys.net/interact/login/LoginPage
+2018-06-19 15:07:06 INFO  RI_TC_01_Verify_Launch_Status:34 - :Starting of Test:
+2018-06-19 15:07:06 INFO  RISignInPage:38 - Entering RI User Name:gokulmvt :At [[ChromeDriver: chrome on XP (d916a76906998ebe3d4ef6630058ee81)] -> xpath: //input[@id='txtUserName']]
+2018-06-19 15:07:07 INFO  RISignInPage:40 - Entering RI RIPasswrodssword:Welcome1234% :At [[ChromeDriver: chrome on XP (d916a76906998ebe3d4ef6630058ee81)] -> xpath: //input[@id='txtPassword']]
+2018-06-19 15:07:07 INFO  RISignInPage:42 - Clicking on SignIn Button of RI Login Page At:[[ChromeDriver: chrome on XP (d916a76906998ebe3d4ef6630058ee81)] -> xpath: //form[@id='loginForm']//button[@id='signIn']]
+2018-06-19 15:12:25 INFO  RITestBase:33 - java.io.FileInputStream@53f65459
+2018-06-19 15:12:25 INFO  RITestBase:42 - Selecting the browser:chrome
+2018-06-19 15:12:25 INFO  RITestBase:60 - Launching:trueBrowser
+2018-06-19 15:12:29 INFO  RITestBase:44 - Navigating to the Application :https://interact.qa1.responsys.net/interact/login/LoginPage
+2018-06-19 15:12:29 INFO  RITestBase:75 - Navigating to the Application:https://interact.qa1.responsys.net/interact/login/LoginPage
+2018-06-19 15:12:34 INFO  RI_TC_01_Verify_Launch_Status:34 - :Starting of Test:
+2018-06-19 15:12:34 INFO  RISignInPage:38 - Entering RI User Name:gokulmvt :At [[ChromeDriver: chrome on XP (6220ccc2c87c3b5a2bc1bc36804f3256)] -> xpath: //input[@id='txtUserName']]
+2018-06-19 15:12:34 INFO  RISignInPage:40 - Entering RI RIPasswrodssword:Welcome1234% :At [[ChromeDriver: chrome on XP (6220ccc2c87c3b5a2bc1bc36804f3256)] -> xpath: //input[@id='txtPassword']]
+2018-06-19 15:12:34 INFO  RISignInPage:42 - Clicking on SignIn Button of RI Login Page At:[[ChromeDriver: chrome on XP (6220ccc2c87c3b5a2bc1bc36804f3256)] -> xpath: //form[@id='loginForm']//button[@id='signIn']]
+2018-06-19 15:31:36 INFO  RITestBase:33 - java.io.FileInputStream@6acdbdf5
+2018-06-19 15:31:36 INFO  RITestBase:42 - Selecting the browser:chrome
+2018-06-19 15:31:36 INFO  RITestBase:60 - Launching:trueBrowser
+2018-06-19 15:31:39 INFO  RITestBase:44 - Navigating to the Application :https://interact.qa1.responsys.net/interact/login/LoginPage
+2018-06-19 15:31:39 INFO  RITestBase:75 - Navigating to the Application:https://interact.qa1.responsys.net/interact/login/LoginPage
+2018-06-19 15:31:45 INFO  RI_TC_01_Verify_Launch_Status:36 - :Starting of Test:
+2018-06-19 15:31:45 INFO  RISignInPage:38 - Entering RI User Name:gokulmvt :At [[ChromeDriver: chrome on XP (99b2a5604f61fba3bf0b216ba06666e4)] -> xpath: //input[@id='txtUserName']]
+2018-06-19 15:31:45 INFO  RISignInPage:40 - Entering RI RIPasswrodssword:Welcome1234% :At [[ChromeDriver: chrome on XP (99b2a5604f61fba3bf0b216ba06666e4)] -> xpath: //input[@id='txtPassword']]
+2018-06-19 15:31:45 INFO  RISignInPage:42 - Clicking on SignIn Button of RI Login Page At:[[ChromeDriver: chrome on XP (99b2a5604f61fba3bf0b216ba06666e4)] -> xpath: //form[@id='loginForm']//button[@id='signIn']]
+2018-06-19 15:36:22 INFO  RITestBase:33 - java.io.FileInputStream@27a5f880
+2018-06-19 15:36:22 INFO  RITestBase:42 - Selecting the browser:chrome
+2018-06-19 15:36:22 INFO  RITestBase:60 - Launching:trueBrowser
+2018-06-19 15:36:25 INFO  RITestBase:44 - Navigating to the Application :https://interact.qa1.responsys.net/interact/login/LoginPage
+2018-06-19 15:36:25 INFO  RITestBase:75 - Navigating to the Application:https://interact.qa1.responsys.net/interact/login/LoginPage
+2018-06-19 15:36:30 INFO  RI_TC_01_Verify_Launch_Status:36 - :Starting of Test:
+2018-06-19 15:36:30 INFO  RISignInPage:38 - Entering RI User Name:gokulmvt :At [[ChromeDriver: chrome on XP (a2ecb223a24d8cb812fe34df1ff28cc1)] -> xpath: //input[@id='txtUserName']]
+2018-06-19 15:36:30 INFO  RISignInPage:40 - Entering RI RIPasswrodssword:Welcome1234% :At [[ChromeDriver: chrome on XP (a2ecb223a24d8cb812fe34df1ff28cc1)] -> xpath: //input[@id='txtPassword']]
+2018-06-19 15:36:30 INFO  RISignInPage:42 - Clicking on SignIn Button of RI Login Page At:[[ChromeDriver: chrome on XP (a2ecb223a24d8cb812fe34df1ff28cc1)] -> xpath: //form[@id='loginForm']//button[@id='signIn']]
+2018-06-19 15:41:13 INFO  RITestBase:33 - java.io.FileInputStream@27a5f880
+2018-06-19 15:41:13 INFO  RITestBase:42 - Selecting the browser:chrome
+2018-06-19 15:41:13 INFO  RITestBase:60 - Launching:trueBrowser
+2018-06-19 15:41:16 INFO  RITestBase:44 - Navigating to the Application :https://interact.qa1.responsys.net/interact/login/LoginPage
+2018-06-19 15:41:16 INFO  RITestBase:75 - Navigating to the Application:https://interact.qa1.responsys.net/interact/login/LoginPage
+2018-06-19 15:41:22 INFO  RI_TC_01_Verify_Launch_Status:36 - :Starting of Test:
+2018-06-19 15:41:22 INFO  RISignInPage:38 - Entering RI User Name:gokulmvt :At [[ChromeDriver: chrome on XP (e504b3a0960f930a1a4d896b2da6175f)] -> xpath: //input[@id='txtUserName']]
+2018-06-19 15:41:22 INFO  RISignInPage:40 - Entering RI RIPasswrodssword:Welcome1234% :At [[ChromeDriver: chrome on XP (e504b3a0960f930a1a4d896b2da6175f)] -> xpath: //input[@id='txtPassword']]
+2018-06-19 15:41:23 INFO  RISignInPage:42 - Clicking on SignIn Button of RI Login Page At:[[ChromeDriver: chrome on XP (e504b3a0960f930a1a4d896b2da6175f)] -> xpath: //form[@id='loginForm']//button[@id='signIn']]
+2018-06-19 15:44:25 INFO  RITestBase:33 - java.io.FileInputStream@27a5f880
+2018-06-19 15:44:25 INFO  RITestBase:42 - Selecting the browser:chrome
+2018-06-19 15:44:25 INFO  RITestBase:60 - Launching:trueBrowser
+2018-06-19 15:44:28 INFO  RITestBase:44 - Navigating to the Application :https://interact.qa1.responsys.net/interact/login/LoginPage
+2018-06-19 15:44:28 INFO  RITestBase:75 - Navigating to the Application:https://interact.qa1.responsys.net/interact/login/LoginPage
+2018-06-19 15:44:33 INFO  RI_TC_01_Verify_Launch_Status:36 - :Starting of Test:
+2018-06-19 15:44:33 INFO  RISignInPage:38 - Entering RI User Name:gokulmvt :At [[ChromeDriver: chrome on XP (319e6cd346c11759f0d4f4a6b6237c66)] -> xpath: //input[@id='txtUserName']]
+2018-06-19 15:44:33 INFO  RISignInPage:40 - Entering RI RIPasswrodssword:Welcome1234% :At [[ChromeDriver: chrome on XP (319e6cd346c11759f0d4f4a6b6237c66)] -> xpath: //input[@id='txtPassword']]
+2018-06-19 15:44:33 INFO  RISignInPage:42 - Clicking on SignIn Button of RI Login Page At:[[ChromeDriver: chrome on XP (319e6cd346c11759f0d4f4a6b6237c66)] -> xpath: //form[@id='loginForm']//button[@id='signIn']]
+2018-06-19 15:49:10 INFO  RITestBase:33 - java.io.FileInputStream@27a5f880
+2018-06-19 15:49:10 INFO  RITestBase:42 - Selecting the browser:chrome
+2018-06-19 15:49:10 INFO  RITestBase:60 - Launching:trueBrowser
+2018-06-19 15:49:14 INFO  RITestBase:44 - Navigating to the Application :https://interact.qa1.responsys.net/interact/login/LoginPage
+2018-06-19 15:49:14 INFO  RITestBase:75 - Navigating to the Application:https://interact.qa1.responsys.net/interact/login/LoginPage
+2018-06-19 15:49:19 INFO  RI_TC_01_Verify_Launch_Status:36 - :Starting of Test:
+2018-06-19 15:49:19 INFO  RISignInPage:38 - Entering RI User Name:gokulmvt :At [[ChromeDriver: chrome on XP (553afeaf851664a87550dcc220e10c70)] -> xpath: //input[@id='txtUserName']]
+2018-06-19 15:49:20 INFO  RISignInPage:40 - Entering RI RIPasswrodssword:Welcome1234% :At [[ChromeDriver: chrome on XP (553afeaf851664a87550dcc220e10c70)] -> xpath: //input[@id='txtPassword']]
+2018-06-19 15:49:20 INFO  RISignInPage:42 - Clicking on SignIn Button of RI Login Page At:[[ChromeDriver: chrome on XP (553afeaf851664a87550dcc220e10c70)] -> xpath: //form[@id='loginForm']//button[@id='signIn']]
+2018-06-19 20:39:29 INFO  RITestBase:33 - java.io.FileInputStream@27a5f880
+2018-06-19 20:39:29 INFO  RITestBase:42 - Selecting the browser:chrome
+2018-06-19 20:39:29 INFO  RITestBase:60 - Launching:trueBrowser
+2018-06-19 20:39:32 INFO  RITestBase:44 - Navigating to the Application :https://interact.qa1.responsys.net/interact/login/LoginPage
+2018-06-19 20:39:32 INFO  RITestBase:75 - Navigating to the Application:https://interact.qa1.responsys.net/interact/login/LoginPage
+2018-06-19 20:39:34 INFO  RI_TC_01_Verify_Launch_Status:36 - :Starting of Test:
+2018-06-19 20:39:34 INFO  RISignInPage:38 - Entering RI User Name:gokulmvt :At Proxy element for: DefaultElementLocator 'By.xpath: //input[@id='txtUserName']'
+2018-08-10 10:55:02 INFO  RITestBase:33 - java.io.FileInputStream@21a947fe
+2018-08-10 10:55:02 INFO  RITestBase:42 - Selecting the browser:chrome
+2018-08-10 10:55:02 INFO  RITestBase:60 - Launching:trueBrowser
+2018-08-10 10:55:06 INFO  RITestBase:44 - Navigating to the Application :https://interact.qa1.responsys.net/interact/login/LoginPage
+2018-08-10 10:55:06 INFO  RITestBase:75 - Navigating to the Application:https://interact.qa1.responsys.net/interact/login/LoginPage
+2018-08-10 10:55:10 INFO  RI_TC_01_CreateEmailCamapign:31 - :Starting of Test:
+2018-08-10 10:55:10 INFO  RISignInPage:38 - Entering RI User Name:gokulmvt :At [[ChromeDriver: chrome on XP (4b486c1350963549375a13d4eda68adf)] -> xpath: //input[@id='txtUserName']]
+2018-08-10 10:55:11 INFO  RISignInPage:40 - Entering RI RIPasswrodssword:Welcome1234! :At [[ChromeDriver: chrome on XP (4b486c1350963549375a13d4eda68adf)] -> xpath: //input[@id='txtPassword']]
+2018-08-10 10:55:11 INFO  RISignInPage:42 - Clicking on SignIn Button of RI Login Page At:[[ChromeDriver: chrome on XP (4b486c1350963549375a13d4eda68adf)] -> xpath: //form[@id='loginForm']//button[@id='signIn']]
+2018-08-10 10:56:01 INFO  RITestBase:33 - java.io.FileInputStream@21a947fe
+2018-08-10 10:56:01 INFO  RITestBase:42 - Selecting the browser:chrome
+2018-08-10 10:56:01 INFO  RITestBase:60 - Launching:trueBrowser
+2018-08-10 10:56:04 INFO  RITestBase:44 - Navigating to the Application :https://interact.qa1.responsys.net/interact/login/LoginPage
+2018-08-10 10:56:04 INFO  RITestBase:75 - Navigating to the Application:https://interact.qa1.responsys.net/interact/login/LoginPage
+2018-08-10 10:56:10 INFO  RI_TC_01_CreateEmailCamapign:31 - :Starting of Test:
+2018-08-10 10:56:10 INFO  RISignInPage:38 - Entering RI User Name:gokulmvt :At [[ChromeDriver: chrome on XP (aa05fe015883854945947e1f5e56f6b4)] -> xpath: //input[@id='txtUserName']]
+2018-08-10 10:56:10 INFO  RISignInPage:40 - Entering RI RIPasswrodssword:Welcome1234! :At [[ChromeDriver: chrome on XP (aa05fe015883854945947e1f5e56f6b4)] -> xpath: //input[@id='txtPassword']]
+2018-08-10 10:56:10 INFO  RISignInPage:42 - Clicking on SignIn Button of RI Login Page At:[[ChromeDriver: chrome on XP (aa05fe015883854945947e1f5e56f6b4)] -> xpath: //form[@id='loginForm']//button[@id='signIn']]
+2018-08-10 10:56:27 INFO  RITestBase:33 - java.io.FileInputStream@21a947fe
+2018-08-10 10:56:27 INFO  RITestBase:42 - Selecting the browser:chrome
+2018-08-10 10:56:27 INFO  RITestBase:60 - Launching:trueBrowser
+2018-08-10 10:56:30 INFO  RITestBase:44 - Navigating to the Application :https://interact.qa1.responsys.net/interact/login/LoginPage
+2018-08-10 10:56:30 INFO  RITestBase:75 - Navigating to the Application:https://interact.qa1.responsys.net/interact/login/LoginPage
+2018-08-10 10:56:35 INFO  RI_TC_01_CreateEmailCamapign:31 - :Starting of Test:
+2018-08-10 10:56:35 INFO  RISignInPage:38 - Entering RI User Name:gokulmvt :At [[ChromeDriver: chrome on XP (acbefcc6ec211d12f8a39ee4ee313ddd)] -> xpath: //input[@id='txtUserName']]
+2018-08-10 10:56:36 INFO  RISignInPage:40 - Entering RI RIPasswrodssword:Welcome1234% :At [[ChromeDriver: chrome on XP (acbefcc6ec211d12f8a39ee4ee313ddd)] -> xpath: //input[@id='txtPassword']]
+2018-08-10 10:56:36 INFO  RISignInPage:42 - Clicking on SignIn Button of RI Login Page At:[[ChromeDriver: chrome on XP (acbefcc6ec211d12f8a39ee4ee313ddd)] -> xpath: //form[@id='loginForm']//button[@id='signIn']]
+2018-08-10 10:57:40 INFO  RI_TC_001_VerifyMutlipleLogins_From_Excel:30 - ***************Starting of Test*************
+2018-08-10 10:57:40 INFO  PHomePage:37 - Clicking on SignIn
+2018-08-10 10:57:43 INFO  PHomePage:39 - Entering Email Address::test@gmail.com
+2018-08-10 10:57:43 INFO  PHomePage:41 - Entering Password::password123
+2018-08-10 10:57:43 INFO  PHomePage:43 - Clicking on submitButton
+2018-08-10 10:57:45 INFO  PHomePage:47 - authenticationFailed.getText()
+2018-08-10 10:57:45 INFO  RI_TC_001_VerifyMutlipleLogins_From_Excel:34 - Invalid Login Text is::Authentication failed.
+2018-08-10 10:57:45 INFO  PHomePage:47 - authenticationFailed.getText()
+2018-08-10 10:57:45 INFO  RI_TC_001_VerifyMutlipleLogins_From_Excel:39 - ***************End of Test*************
+2018-08-11 14:29:30 INFO  RITestBase:33 - java.io.FileInputStream@9a7504c
+2018-08-11 14:29:30 INFO  RITestBase:42 - Selecting the browser:chrome
+2018-08-11 14:29:30 INFO  RITestBase:60 - Launching:trueBrowser
+2018-08-11 15:12:15 INFO  RITestBase:33 - java.io.FileInputStream@2353b3e6
+2018-08-11 15:12:15 INFO  RITestBase:42 - Selecting the browser:chrome
+2018-08-11 15:12:15 INFO  RITestBase:60 - Launching:trueBrowser
+2018-08-11 15:12:19 INFO  RITestBase:44 - Navigating to the Application :https://interact.qa1.responsys.net/interact/login/LoginPage
+2018-08-11 15:12:19 INFO  RITestBase:75 - Navigating to the Application:https://interact.qa1.responsys.net/interact/login/LoginPage

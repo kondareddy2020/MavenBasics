@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Suite]">
+  <test thread-count="5" name="Test(failed)">
+    <classes>
+      <class name="com.oracle.responsys.testscripts.TestSelenium">
+        <methods>
+          <include name="test"/>
+          <include name="init"/>
+        </methods>
+      </class> <!-- com.oracle.responsys.testscripts.TestSelenium -->
+      <class name="com.oracle.responsys.testscripts.TestNG_FullDemo2">
+        <methods>
+          <include name="BeforeMethod"/>
+          <include name="AfterSuite"/>
+          <include name="test3"/>
+          <include name="AfterMethod"/>
+          <include name="BeforeClass"/>
+          <include name="BeforeSuite"/>
+          <include name="BeforeTest"/>
+          <include name="AfterClass"/>
+          <include name="AfterTest"/>
+          <include name="test2"/>
+          <include name="test1"/>
+        </methods>
+      </class> <!-- com.oracle.responsys.testscripts.TestNG_FullDemo2 -->
+      <class name="com.oracle.responsys.testscripts.TestW">
+        <methods>
+          <include name="init"/>
+          <include name="test"/>
+          <include name="close"/>
+        </methods>
+      </class> <!-- com.oracle.responsys.testscripts.TestW -->
+      <class name="com.oracle.responsys.testscripts.RI_TC_01_Verify_Launch_Status">
+        <methods>
+          <include name="test_close"/>
+          <include name="DriverSetup"/>
+          <include name="test"/>
+        </methods>
+      </class> <!-- com.oracle.responsys.testscripts.RI_TC_01_Verify_Launch_Status -->
+      <class name="com.oracle.responsys.testscripts.TestNG_FullDemo1">
+        <methods>
+          <include name="test2"/>
+          <include name="BeforeTest"/>
+          <include name="AfterMethod"/>
+          <include name="AfterSuite"/>
+          <include name="BeforeSuite"/>
+          <include name="test1"/>
+          <include name="BeforeClass"/>
+          <include name="AfterClass"/>
+          <include name="test3"/>
+          <include name="AfterTest"/>
+          <include name="BeforeMethod"/>
+        </methods>
+      </class> <!-- com.oracle.responsys.testscripts.TestNG_FullDemo1 -->
+      <class name="com.oracle.responsys.testscripts.RI_TC_03_RecentFromHome">
+        <methods>
+          <include name="test"/>
+          <include name="DriverSetup"/>
+        </methods>
+      </class> <!-- com.oracle.responsys.testscripts.RI_TC_03_RecentFromHome -->
+      <class name="com.oracle.responsys.testscripts.TestNG_FullDemo3">
+        <methods>
+          <include name="AfterTest"/>
+          <include name="BeforeMethod"/>
+          <include name="AfterClass"/>
+          <include name="BeforeTest"/>
+          <include name="BeforeSuite"/>
+          <include name="AfterSuite"/>
+          <include name="test3"/>
+          <include name="AfterMethod"/>
+          <include name="test1"/>
+          <include name="BeforeClass"/>
+          <include name="test2"/>
+        </methods>
+      </class> <!-- com.oracle.responsys.testscripts.TestNG_FullDemo3 -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [Suite] -->
